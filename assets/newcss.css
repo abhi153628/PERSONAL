@@ -483,6 +483,7 @@ img {
 input{
   background-color: transparent;
   border: none;
+  color: white;
 }
 .skills__bar {
   background-color: var(--first-color-lighter);
